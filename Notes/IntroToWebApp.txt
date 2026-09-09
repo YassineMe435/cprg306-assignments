@@ -1,0 +1,6 @@
+Web App is a dynamic system that holds both front-end and back-end, it handles user interface and
+client logic via front end, and server logic and database info via back end.
+WEBSITE: (Static) Blogs, Informational websites etc...
+WEB APPLICATION: (Dynamic) Interactive, stores data like Gmail, Facebook etc...
+Client-Server Relationship: the client requests, the server answers.
+
