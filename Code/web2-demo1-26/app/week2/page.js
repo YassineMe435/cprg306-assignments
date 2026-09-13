@@ -1,3 +1,4 @@
+import Title from "./week2/title";
 export default function Page(){
   return (
     <main>
